@@ -19,7 +19,12 @@
   ## Installation
   To install this application, install it from the gitHub repository
   ## Usage
-  To use this application, clone the github repository to yourcomputer and install the necessary node modules. Then you must create a database in the mysql shell and seed the applicaton for development purposes. Then start the server and you may make local api calls to the following routes: Categories, Products, and tags. 
+  To use this application, clone the github repository to yourcomputer and install the necessary node modules. Then you must create a database in the mysql shell and seed the applicaton for develop
+
+https://user-images.githubusercontent.com/79770445/180121188-1dc9db83-0290-4f85-83bc-0b803df5e312.mp4
+
+ment purposes. Then start the server and you may make local api calls to the following routes: Categories, Products, and tags.
+  
   ## Contributing
   Ommar Khawaja
   ## Test
